@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **noah.hendrix0129@gmail.com**
 
-- ⚡ Fun fact **I am a Teenager and I hope to Code and Learn more about Lua**
+- ⚡ Fun fact **I am a Teenager and I hope learn more about programing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
