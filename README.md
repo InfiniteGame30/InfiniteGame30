@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm InfiniteGame30</h1>
-<h3 align="center">Programing Student from the US</h3>
+<h3 align="center">Programing Student from the United States Of America</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinitegame30&label=Profile%20views&color=0e75b6&style=flat" alt="infinitegame30" /> </p>
 
-- 🔭 I’m currently working on Helping Xanthus with some projects including [StillAliveReforged](https://github.com/Xanthus58/StillAliveReforged)
+- 🔭 I’m currently working on Helping Xanthus with [StillAliveReforged](https://github.com/Xanthus58/StillAliveReforged)
 
 - 🌱 I’m currently learning **Lua, Python and Rust**
 
 - 🔭I am Also working with Xanthus on [Vanilla-Renewed](https://github.com/Xanthus58/Vanilla-Renewed/tree/Experimental)
-
-- 🤝 I’m looking for help with Bugs and More versions for less powerful computers on [Vanilla-Renewed](https://github.com/Xanthus58/Vanilla-Renewed/tree/Experimental)
 
 - 📫 How to reach me **noah.hendrix0129@gmail.com**
 
